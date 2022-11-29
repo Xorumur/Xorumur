@@ -11,8 +11,6 @@
 [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
 ![JavaScript](https://badgen.net/badge/icon/JavaScript?icon=JavaScript&label)
 
-[![Xorumur's github stats](https://github-readme-stats.vercel.app/api?username=Xorumur&theme=blue-green)](https://github.com/Xorumur/github-readme-stats)
-
 [![Xorumur's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xorumur&theme=blue-green)](https://github.com/Xorumur/github-readme-stats)
 
 
