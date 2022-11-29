@@ -9,8 +9,7 @@
 ![image](https://user-images.githubusercontent.com/90551595/160589440-43e8d14e-c500-4ebb-860b-3f1261f4b978.png)
 [![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
 [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
-[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-[![JavaScript](https://badgen.net/badge/icon/JavaScript/?icon=typescript&label)
+![JavaScript](https://badgen.net/badge/icon/JavaScript?icon=JavaScript&label)
 
 [![Xorumur's github stats](https://github-readme-stats.vercel.app/api?username=Xorumur&theme=blue-green)](https://github.com/Xorumur/github-readme-stats)
 
