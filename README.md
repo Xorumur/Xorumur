@@ -10,6 +10,8 @@
 
 [![Xorumur's github stats](https://github-readme-stats.vercel.app/api?username=Xorumur&theme=blue-green)](https://github.com/Xorumur/github-readme-stats)
 
+[![Xorumur's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xorumur&theme=blue-green)](https://github.com/Xorumur/github-readme-stats)
+
 
 <!---
 Xorumur/Xorumur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
