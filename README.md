@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xorumur (Mathieu Lecherbonnier)
 - 📒 I'm studying at 42 school.
-- 🌱 I’m currently learning C / C++ / JavaScript / TypeScript / Docker.
+- 🌱 I’m currently learning C / C++ / JavaScript / TypeScript / Docker / Postgresql.
 - 📫 How to reach me : math.lecherbonnier@gmail.com
 
 ![image](https://user-images.githubusercontent.com/90551595/160696311-b6d38e33-7630-40f9-adc8-8ee69c35fe42.png)
