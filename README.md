@@ -8,6 +8,7 @@
 ![image](https://user-images.githubusercontent.com/90551595/160696283-44e89fb2-5d02-429e-b512-9c95f8238adc.png)
 ![image](https://user-images.githubusercontent.com/90551595/160589440-43e8d14e-c500-4ebb-860b-3f1261f4b978.png)
 
+[![Xorumur's github stats](https://github-readme-stats.vercel.app/api?username=Xorumur&theme=blue-green)](https://github.com/Xorumur/github-readme-stats)
 
 
 <!---
